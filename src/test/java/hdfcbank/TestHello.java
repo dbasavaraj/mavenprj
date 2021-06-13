@@ -9,5 +9,6 @@ public class TestHello {
 		System.out.println("Hello maven project ggggg");
 		System.out.println("Hello maven project ggggg");
 		System.out.println("Hello maven project ggggg");
+		System.out.println("Maven project added succesfully in github");
 	}
 }
