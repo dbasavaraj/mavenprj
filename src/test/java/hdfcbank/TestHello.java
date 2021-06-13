@@ -7,5 +7,7 @@ public class TestHello {
 	@Test
 	public void test() {
 		System.out.println("Hello maven project ggggg");
+		System.out.println("Hello maven project ggggg");
+		System.out.println("Hello maven project ggggg");
 	}
 }
